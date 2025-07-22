@@ -1,0 +1,20 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	max-width: 900px;
+	margin: auto;
+}
+
+h1, h2 {
+	color: #333;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+.video-grid {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+}
